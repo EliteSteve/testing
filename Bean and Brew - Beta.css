@@ -1,0 +1,20 @@
+.headercontainer{
+    height: 100%;
+    width: 100%;
+    background-color: brown;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.logobox{
+    text-align: start;
+}
+
+.row{
+    padding: 0px;
+}
+
+.col{
+    background-color: brown;
+}

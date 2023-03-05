@@ -1,0 +1,129 @@
+body{
+    margin: 0%;
+    padding: 0px;
+}
+
+h2{
+    margin-top: 10px;
+}
+
+.text{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Container{
+    height: 100%;
+    width: 100%;
+}
+
+.HeaderContainer{
+    height: 20vh;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.LogoContainer{
+    height: 100%;
+    width: 20%;
+}
+
+.ButtonContainer{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Button{
+    height: 100%;
+    width: 22.5%;
+    background-color: brown;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 250%;
+}
+
+.Button:hover{
+    background-color: #ffe6cc;
+    color: brown;
+}
+
+.Login_Button{
+    height: 100%;
+    width: 10%;
+    background-color: brown;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 250%;
+}
+
+.Login_Button:hover{
+    background-color: #ffe6cc;
+    color: brown;
+}
+
+.TopContainer{
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+}
+
+.ContentBox1{
+    height: 200%;
+    width: 16.7%;
+    background-color: brown;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.ContentBox2{
+    height: 97%;
+    width: 41.5%;
+    background-color: #ffe6cc;
+    color: brown;
+    margin: 5px;
+}
+
+.ContentBox3{
+    height: 97%;
+    width: 41.5%;
+    background-color: #ffe6cc;
+    color: brown;
+    margin: 5px;
+}
+
+.BottomContainer{
+    height: 40vh;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+
+.ContentBox4{
+    height: 97%;
+    width: 40.95%;
+    background-color: #ffe6cc;
+    color: brown;
+    margin: 5px;
+}
+
+.ContentBox5{
+    height: 97%;
+    width: 40.95%;
+    background-color: #ffe6cc;
+    color: brown;
+    margin: 5px;
+    text-align: center;
+}
